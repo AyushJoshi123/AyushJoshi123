@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Joshi</h1>
 
 <p align="center">
-  <img src="portfolio.jpg" width="800"/>
+  <img src="portfolio.jpg" width="100%" />
 </p>
 
 <h3 align="center">
