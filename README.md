@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayush Joshi</h1>
+<h1 align="center">Hi, I'm Ayush Joshi</h1>
+
+<p align="center">
+  <img src="portfolio.jpg" width="800"/>
+</p>
 
 <h3 align="center">
-MERN Stack Developer • Building in Public • Posting till I get a job 🚀
+MERN Stack Developer • Building in Public • Posting till I get a job
 </h3>
 
 <p align="center">
@@ -10,31 +14,31 @@ Focused on becoming industry-ready through real projects, freelancing, and consi
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 MERN Stack Developer from India  
-- 📈 Building real projects every week  
-- 🧠 Preparing for interviews & GATE  
-- 🌍 Open to freelance & job opportunities  
-- 🛒 Currently building an E-commerce platform  
-- 🔥 Sharing daily progress publicly  
+- MERN Stack Developer from India  
+- Building real projects every week  
+- Preparing for interviews and GATE  
+- Open to freelance and job opportunities  
+- Currently building an E-commerce platform  
+- Sharing daily development progress publicly  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Frontend**  
+Frontend  
 React • JavaScript • HTML • CSS • Tailwind  
 
-**Backend**  
+Backend  
 Node.js • Express • MongoDB • REST APIs  
 
-**Tools & DevOps**  
+Tools and DevOps  
 Git • GitHub • Postman • VS Code • Docker  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushJoshi123&show_icons=true&theme=tokyonight" />
@@ -46,7 +50,7 @@ Git • GitHub • Postman • VS Code • Docker
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushJoshi123&theme=tokyo-night" />
@@ -54,32 +58,36 @@ Git • GitHub • Postman • VS Code • Docker
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🛒 E-commerce Platform
+### E-commerce Platform
 Full-stack MERN application with authentication, RBAC, and admin features  
 
-### 🏕️ Tripshalla — Booking Platform
-Platform for rafting, camping, and travel bookings  
-
-### 👗 Regal Rentals
+### Regal Rentals
 Online clothing rental store built with MERN  
 
+### MERN Chat Application
+Real-time chat application using MERN stack and WebSockets  
+
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/ayush-joshi-57657421b
-- 📧 Email: joshiayush00712345@gmail.com
+LinkedIn  
+www.linkedin.com/in/ayush-joshi-57657421b  
+
+Email  
+joshiayush00712345@gmail.com  
+
 ---
 
-## ⚡ Current Mission
+## Current Mission
 
-> Build → Learn → Improve → Repeat  
-> Posting every day until I get a job 🚀  
+Build → Learn → Improve → Repeat  
+Posting every day until I get a job
 
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/AyushJoshi123">Ayush Joshi</a>
+From <a href="https://github.com/AyushJoshi123">Ayush Joshi</a>
 </p>
