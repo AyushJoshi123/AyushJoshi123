@@ -19,8 +19,7 @@ Focused on becoming industry-ready through real projects, freelancing, and consi
 - MERN Stack Developer from India  
 - Building real projects every week  
 - Preparing for interviews and GATE  
-- Open to freelance and job opportunities  
-- Currently building an E-commerce platform  
+- Open to freelance and job opportunities    
 - Sharing daily development progress publicly  
 
 ---
@@ -72,6 +71,9 @@ Real-time chat application using MERN stack and WebSockets
 ---
 
 ## Connect With Me
+
+Twitter
+https://x.com/Ayushjo88075588
 
 LinkedIn  
 www.linkedin.com/in/ayush-joshi-57657421b  
