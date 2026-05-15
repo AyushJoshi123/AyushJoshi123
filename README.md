@@ -72,9 +72,6 @@ Real-time chat application using MERN stack and WebSockets
 
 ## Connect With Me
 
-Twitter
-https://x.com/Ayushjo88075588
-
 LinkedIn  
 www.linkedin.com/in/ayush-joshi-57657421b  
 
